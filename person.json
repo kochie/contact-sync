@@ -1,0 +1,795 @@
+{
+	"accomplishment_courses": [],
+	"accomplishment_honors_awards": [
+		{
+			"description": null,
+			"issued_on": {
+				"day": 1,
+				"month": 8,
+				"year": 2016
+			},
+			"issuer": "Telstra",
+			"title": "Telstra University Challenge - Winner"
+		},
+		{
+			"description": null,
+			"issued_on": {
+				"day": 1,
+				"month": 4,
+				"year": 2016
+			},
+			"issuer": "NASA Apace App Challenge",
+			"title": "People's Choice Award - Melbourne"
+		},
+		{
+			"description": null,
+			"issued_on": {
+				"day": 1,
+				"month": 8,
+				"year": 2015
+			},
+			"issuer": "IMC Pacific",
+			"title": "Making Things Happen"
+		},
+		{
+			"description": null,
+			"issued_on": {
+				"day": 1,
+				"month": 8,
+				"year": 2015
+			},
+			"issuer": "UniHack Melbourne",
+			"title": "Most Creative Idea"
+		},
+		{
+			"description": "Awarded for giving 100% at work and keeping with Target standards in customer service and teamwork.",
+			"issued_on": {
+				"day": 1,
+				"month": 12,
+				"year": 2009
+			},
+			"issuer": "Target Australia",
+			"title": "100% Happy Team Member Award - Store"
+		},
+		{
+			"description": null,
+			"issued_on": {
+				"day": 1,
+				"month": 11,
+				"year": 2009
+			},
+			"issuer": "Nazareth College",
+			"title": "Application and Diligence"
+		}
+	],
+	"accomplishment_organisations": [
+		{
+			"description": null,
+			"ends_at": null,
+			"org_name": "IEEE",
+			"starts_at": {
+				"day": 1,
+				"month": 10,
+				"year": 2018
+			},
+			"title": "Student Member"
+		},
+		{
+			"description": null,
+			"ends_at": null,
+			"org_name": "Engineers Australia",
+			"starts_at": {
+				"day": 1,
+				"month": 4,
+				"year": 2015
+			},
+			"title": "Graduate Membership"
+		}
+	],
+	"accomplishment_patents": [],
+	"accomplishment_projects": [
+		{
+			"description": "Project that we created for UniHack 2015 which won the \"Making Things Happen\"​ and \"Most Creative Idea\" awards. The app can take a picture of a code word puzzle and solve it from a phone.",
+			"ends_at": {
+				"day": 31,
+				"month": 7,
+				"year": 2016
+			},
+			"starts_at": {
+				"day": 1,
+				"month": 7,
+				"year": 2016
+			},
+			"title": "Bin Monsters",
+			"url": "http://devpost.com/software/codebreaker"
+		},
+		{
+			"description": "WebApp that allows drone pilots and members of the public to designate safe and not safe areas for drones to fly in. Built on Meteor and node for NASA's Space Apps Challenge 2016 and winning the people's choice award.",
+			"ends_at": {
+				"day": 30,
+				"month": 4,
+				"year": 2016
+			},
+			"starts_at": {
+				"day": 1,
+				"month": 4,
+				"year": 2016
+			},
+			"title": "Drone Guard",
+			"url": null
+		},
+		{
+			"description": "Project that we created for UniHack 2015 which won the \"Making Things Happen\"​ and \"Most Creative Idea\" awards. The app can take a picture of a code word puzzle and solve it from a phone.",
+			"ends_at": {
+				"day": 0,
+				"month": 0,
+				"year": 0
+			},
+			"starts_at": {
+				"day": 1,
+				"month": 8,
+				"year": 2015
+			},
+			"title": "Codebreaker",
+			"url": "https://binmonsters.xyz"
+		},
+		{
+			"description": "Have you ever wanted a juicy steak at the most inconvenient time? I Need Steak Right Now is the easiest way to put you in a room with steak right now.",
+			"ends_at": {
+				"day": 31,
+				"month": 8,
+				"year": 2015
+			},
+			"starts_at": {
+				"day": 1,
+				"month": 8,
+				"year": 2015
+			},
+			"title": "I Need Steak Right Now",
+			"url": "https://2016.spaceappschallenge.org/challenges/aero/dont-crash-my-drone/projects/drone-guard"
+		},
+		{
+			"description": "Have you ever wanted a juicy steak at the most inconvenient time? I Need Steak Right Now is the easiest way to put you in a room with steak right now.",
+			"ends_at": {
+				"day": 31,
+				"month": 10,
+				"year": 2017
+			},
+			"starts_at": {
+				"day": 1,
+				"month": 3,
+				"year": 2017
+			},
+			"title": "Optimisation of Neural Networks for Embedded Systems",
+			"url": "http://ineedsteakrightnow.xyz"
+		}
+	],
+	"accomplishment_publications": [],
+	"accomplishment_test_scores": [
+		{
+			"date_on": {
+				"day": 1,
+				"month": 6,
+				"year": 2007
+			},
+			"description": null,
+			"name": "International Competition and Assessments for Schools - Computer Skills",
+			"score": "Distinction"
+		}
+	],
+	"activities": [
+		{
+			"activity_status": "Liked by 🚀 Robert Koch",
+			"link": "https://www.linkedin.com/signup/cold-join",
+			"title": "In lockdown last year I started running regularly as a way to improve my health and fitness. I've been slowly building up my distance and am now…"
+		},
+		{
+			"activity_status": "Liked by 🚀 Robert Koch",
+			"link": "https://www.linkedin.com/signup/cold-join",
+			"title": "Australia’s Women In Digital Champion of Change 2021… it’s ME?! 🤯 😭 🙏🏽Younger me didn’t know blessing like this existed. Today’s me can’t wait…"
+		},
+		{
+			"activity_status": "Liked by 🚀 Robert Koch",
+			"link": "https://www.linkedin.com/signup/cold-join",
+			"title": "Incredibly honoured to be featured in this months edition of Careers with STEM magazine sharing my story and journey from Chemical Engineering to…"
+		}
+	],
+	"articles": [],
+	"background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rkkochie/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=0004d7f56a0400b0000000001%2F20220709%2Fus-west-000%2Fs3%2Faws4_request\u0026X-Amz-Date=20220709T133025Z\u0026X-Amz-Expires=3600\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=c8d9657c9c3b43b44198ea52aacb600b99ac63b47d3fbf95909fef00ace90796",
+	"birth_date": null,
+	"certifications": [
+		{
+			"authority": "Google",
+			"display_source": "learndigital.withgoogle.com",
+			"ends_at": null,
+			"license_number": "NU5 T4P 93N",
+			"name": "The Fundamentals of Digital Marketing",
+			"starts_at": {
+				"day": 1,
+				"month": 8,
+				"year": 2018
+			},
+			"url": "https://learndigital.withgoogle.com/digitalgarage-au/validate-certificate-code"
+		},
+		{
+			"authority": "Amazon Web Services (AWS)",
+			"display_source": "amazon.com",
+			"ends_at": {
+				"day": 30,
+				"month": 9,
+				"year": 2022
+			},
+			"license_number": "8C7LX5BCMERE109R",
+			"name": "AWS Developer - Associate",
+			"starts_at": {
+				"day": 1,
+				"month": 9,
+				"year": 2019
+			},
+			"url": "http://aws.amazon.com/verification"
+		},
+		{
+			"authority": "Amazon Web Services (AWS)",
+			"display_source": "amazon.com",
+			"ends_at": {
+				"day": 30,
+				"month": 9,
+				"year": 2022
+			},
+			"license_number": "2Q7XXFRK3E1E1XGS",
+			"name": "AWS Solutions Architect - Associate",
+			"starts_at": {
+				"day": 1,
+				"month": 9,
+				"year": 2019
+			},
+			"url": "http://aws.amazon.com/verification"
+		},
+		{
+			"authority": "Amazon Web Services (AWS)",
+			"display_source": "amazon.com",
+			"ends_at": {
+				"day": 30,
+				"month": 9,
+				"year": 2022
+			},
+			"license_number": "7W43WNS1HJF11MGR",
+			"name": "AWS SysOps Administrator - Associate",
+			"starts_at": {
+				"day": 1,
+				"month": 9,
+				"year": 2019
+			},
+			"url": "http://aws.amazon.com/verification"
+		},
+		{
+			"authority": "Amazon Web Services (AWS)",
+			"display_source": "amazon.com",
+			"ends_at": {
+				"day": 30,
+				"month": 6,
+				"year": 2022
+			},
+			"license_number": "2NJN7D8CDEVQQNSK",
+			"name": "AWS Certified Cloud Practitioner (CLF)",
+			"starts_at": {
+				"day": 1,
+				"month": 6,
+				"year": 2019
+			},
+			"url": "http://aws.amazon.com/verification"
+		}
+	],
+	"city": "Melbourne",
+	"connections": 500,
+	"country": "AU",
+	"country_full_name": "Australia",
+	"education": [
+		{
+			"degree_name": "Bachelor's of Engineering (Honors)",
+			"description": "Completed a double degree of Electrical and Computer Systems Engineering and Computer Science at Monash University. My course involves the understanding of both the software and hardware that underlies modern technology, and the continuing development in the fields of engineering, computer science, and mathematics.",
+			"ends_at": {
+				"day": 30,
+				"month": 6,
+				"year": 2018
+			},
+			"field_of_study": "Electrical and Computer Systems Engineering",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQGQ17wssGVZeA/company-logo_400_400/0/1640136483646?e=1664409600\u0026v=beta\u0026t=JvoXrVg5Ize_lP4UyMSMOc-tRYZV06_Bh5agLNLSD8c",
+			"school": "Monash University",
+			"school_linkedin_profile_url": null,
+			"starts_at": {
+				"day": 1,
+				"month": 1,
+				"year": 2013
+			}
+		},
+		{
+			"degree_name": "Bachelor’s of Science",
+			"description": "Currently studying a double degree of Electrical and Computer Systems Engineering and Computer Science at Monash University. My course involves the understanding of both the software and hardware that underlies modern technology, and the continuing development in the fields of engineering, computer science, and mathematics.",
+			"ends_at": {
+				"day": 31,
+				"month": 12,
+				"year": 2018
+			},
+			"field_of_study": "Mathematics and Computer Science",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQGQ17wssGVZeA/company-logo_400_400/0/1640136483646?e=1664409600\u0026v=beta\u0026t=JvoXrVg5Ize_lP4UyMSMOc-tRYZV06_Bh5agLNLSD8c",
+			"school": "Monash University",
+			"school_linkedin_profile_url": null,
+			"starts_at": {
+				"day": 1,
+				"month": 1,
+				"year": 2013
+			}
+		}
+	],
+	"experiences": [
+		{
+			"company": "Amazon Web Services (AWS)",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/amazon-web-services/",
+			"description": "Cloud Architects use business and technical skills to create unique solutions for customers based on their requirements and constraints. We contribute to the Professional Services team by creating reproducible artifacts that can be provided to customers to solve common business problems. \n\nAs a member of the Security and Compliance TFC I focus on mastering the compliance frameworks, technical compliance programs, physical security, security processes and AWS Security services.",
+			"ends_at": null,
+			"location": "Melbourne, Victoria, Australia",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_400_400/0/1640205885683?e=1664409600\u0026v=beta\u0026t=yNH9QbpI9qcpo7ybmaJApiWZpUSyOhmfxd-nvudOH98",
+			"starts_at": {
+				"day": 1,
+				"month": 3,
+				"year": 2019
+			},
+			"title": "Cloud Architect"
+		},
+		{
+			"company": "Localz",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/localz/",
+			"description": "Developed and maintained projects relating to realtime logistics and product delivery. The projects I worked on where created on different frameworks and platforms including React Native on iOS and Android, Angular and React for web development, and Node Js and Docker.\n\nLightly exposed to technologies including Kong, Amazon Web Services, and Objective-C.",
+			"ends_at": {
+				"day": 28,
+				"month": 2,
+				"year": 2019
+			},
+			"location": "Melbourne, Australia",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQEHx8KmwF0njA/company-logo_400_400/0/1565623399193?e=1664409600\u0026v=beta\u0026t=kDFaxJOFb9uIfJd1SO_-Wi-KB8VG-cMm6DQj-5Nnki8",
+			"starts_at": {
+				"day": 1,
+				"month": 11,
+				"year": 2017
+			},
+			"title": "Software Engineer"
+		},
+		{
+			"company": "Monash University",
+			"company_linkedin_profile_url": "https://www.linkedin.com/school/monash-university/",
+			"description": "As a software engineer at Monash eSolutions my main area of focus is the development of monPlan, a course planner built for students. \n\nMy position involves the continuous development of our products - monPlan and myFuture, but also to maintain the software stack, and infrastructure currently in use.",
+			"ends_at": {
+				"day": 30,
+				"month": 11,
+				"year": 2017
+			},
+			"location": "Clayton, Victoria, Australia",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQGQ17wssGVZeA/company-logo_400_400/0/1640136483646?e=1664409600\u0026v=beta\u0026t=JvoXrVg5Ize_lP4UyMSMOc-tRYZV06_Bh5agLNLSD8c",
+			"starts_at": {
+				"day": 1,
+				"month": 4,
+				"year": 2017
+			},
+			"title": "Junior Software Engineer"
+		},
+		{
+			"company": "Atlassian",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/atlassian/",
+			"description": "Worked in a small team to develop and maintain numerous internal applications based on several different technologies including Node, React, Angular, Java Spring, Python Flask, and Electron. \n\nWas a member of the Workplace Technology Add-On's team, a group tasked with developing and improving internal tools built around the Atlassian stack (Jira, Confluence, Bitbucket).",
+			"ends_at": {
+				"day": 28,
+				"month": 2,
+				"year": 2017
+			},
+			"location": "Sydney, Australia",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQH5FOSGbPkisg/company-logo_400_400/0/1654721405735?e=1664409600\u0026v=beta\u0026t=lId5gpbiNMeQFPGTazwdqL-Y7hdhuhI6xKOqYlEWJs0",
+			"starts_at": {
+				"day": 1,
+				"month": 11,
+				"year": 2016
+			},
+			"title": "Workplace Technology Intern"
+		},
+		{
+			"company": "UNIHACK",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/unihack-inc/",
+			"description": "Assisted the President and leadership committee in the organization and execution of events throughout the year. Worked with the President, Secretary, and Treasurer to align the organization with the specific goals that we intended to implement in the year and beyond.",
+			"ends_at": {
+				"day": 28,
+				"month": 2,
+				"year": 2019
+			},
+			"location": "Melbourne, Australia",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQGrfNP6oyxMbw/company-logo_400_400/0/1536914529676?e=1664409600\u0026v=beta\u0026t=ul_WxoHq-ZnMYg1AskCo71-8WmcNUd3VHnWgxjDc3g4",
+			"starts_at": {
+				"day": 1,
+				"month": 2,
+				"year": 2016
+			},
+			"title": "Vice President"
+		},
+		{
+			"company": "netwealth - Investment \u0026 Superannuation",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/netwealth-investments-limited/",
+			"description": "Worked full time during several university holidays to complete numerous projects for the IT and Support departments at Netwealth. Projects ranged from research and investigation into new technologies such as node,  to  the development and implementation of scripts to automate day to day tasks.",
+			"ends_at": {
+				"day": 31,
+				"month": 7,
+				"year": 2016
+			},
+			"location": "Melbourne, Australia",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQFcEfMiU7DorQ/company-logo_400_400/0/1519896208799?e=1664409600\u0026v=beta\u0026t=KiUtgJcZVPTckG1DRQTYbXCJVqdssgP6K3ppZpCQaUM",
+			"starts_at": {
+				"day": 1,
+				"month": 6,
+				"year": 2015
+			},
+			"title": "Vacation Employment"
+		},
+		{
+			"company": "Google",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+			"description": "Represented Google at Monash University as a Student Ambassador. I represented Google by coordinating with the university faculties to organise events aimed at training, educating, and reaching out to students about the opportunities and products that Google provides.\n\nIn this time I worked with several other ambassadors from both Monash and other universities to create a network of students in Melbourne that is still active today.",
+			"ends_at": {
+				"day": 31,
+				"month": 3,
+				"year": 2017
+			},
+			"location": "Monash University - Clayton",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1519856215226?e=1664409600\u0026v=beta\u0026t=grlFsEnt2fJJtOm6JjgAh3Fe8L9G9yabSxnmMc9Awuc",
+			"starts_at": {
+				"day": 1,
+				"month": 2,
+				"year": 2015
+			},
+			"title": "Student Ambassador"
+		},
+		{
+			"company": "Target Australia",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/target-australia-pty-ltd/",
+			"description": "As part of my role as a supervisor at Target my job involved assisting customers with inquires and providing a line of communication between shoppers and the company. My position also made me accountable for all receipts and money that was in tills while I was working. \n\nAs a employee of just over 8 years I had many different responsibilities starting at a register position, but then moving on to other positions such as Sound and Entertainment, Lay-By, Refunds, Hard-goods, and Supervisor.",
+			"ends_at": {
+				"day": 30,
+				"month": 4,
+				"year": 2017
+			},
+			"location": "Waverley Gardens",
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQEEGuOF9GOC2A/company-logo_400_400/0/1552011046942?e=1664409600\u0026v=beta\u0026t=AXhJ8hC-bc-NXFLjL3ZYFQFzmJbULxA9FwvYWLeCXkw",
+			"starts_at": {
+				"day": 1,
+				"month": 4,
+				"year": 2009
+			},
+			"title": "Supervisor"
+		}
+	],
+	"extra": {
+		"facebook_profile_id": null,
+		"github_profile_id": null,
+		"twitter_profile_id": null
+	},
+	"first_name": "🚀 Robert",
+	"full_name": "🚀 Robert Koch",
+	"gender": null,
+	"groups": [],
+	"headline": "Cloud Architect (WWPS) at Amazon Web Services (AWS)",
+	"industry": null,
+	"inferred_salary": {
+		"max": null,
+		"min": null
+	},
+	"interests": null,
+	"languages": [
+		"English",
+		"German"
+	],
+	"last_name": "Koch",
+	"occupation": "Cloud Architect at Amazon Web Services (AWS)",
+	"people_also_viewed": [
+		{
+			"link": "https://au.linkedin.com/in/lpsoltys",
+			"location": "Australia",
+			"name": "Lukas S.",
+			"summary": "ISV and SaaS at Amazon Web Services (AWS)"
+		},
+		{
+			"link": "https://au.linkedin.com/in/macauchi",
+			"location": "Greater Melbourne Area",
+			"name": "Matthew Cauchi",
+			"summary": "Enterprise Account Manager at Amazon Web Services"
+		},
+		{
+			"link": "https://au.linkedin.com/in/rafaela-brownlie",
+			"location": "Canberra, CT",
+			"name": "Rafaela de Oliveira",
+			"summary": "Solutions Architect at Amazon Web Services"
+		},
+		{
+			"link": "https://au.linkedin.com/in/sneha-goteti-aa30a019",
+			"location": "Greater Sydney Area",
+			"name": "Sneha Goteti",
+			"summary": "Partner Enablement Specialist  at Amazon Web Services (AWS)"
+		},
+		{
+			"link": "https://au.linkedin.com/in/christy-vickerman-60122449",
+			"location": "Greater Melbourne Area",
+			"name": "Christy Vickerman",
+			"summary": "Business Operations Specialist at Amazon Web Services (AWS)."
+		},
+		{
+			"link": "https://au.linkedin.com/in/ethanwilliams",
+			"location": "Greater Sydney Area",
+			"name": "Ethan Williams",
+			"summary": "Cloud Professional"
+		},
+		{
+			"link": "https://au.linkedin.com/in/joshua-smith-4a5b41169",
+			"location": "Greater Melbourne Area",
+			"name": "Joshua Smith",
+			"summary": "Software Engineer at Atlassian"
+		},
+		{
+			"link": "https://au.linkedin.com/in/julia-n-kowalska",
+			"location": "Syndal, VI",
+			"name": "Julia Kowalska",
+			"summary": "Business Intelligence Officer at Department of Transport"
+		},
+		{
+			"link": "https://au.linkedin.com/in/shaun-keating-79298947",
+			"location": "Greater Melbourne Area",
+			"name": "Shaun Keating",
+			"summary": "AWS; Professional Services; Cloud Best Practices; Enterprise Transformation;  Financial Services"
+		},
+		{
+			"link": "https://sg.linkedin.com/in/annahngreen",
+			"location": "Singapore",
+			"name": "Anna Green",
+			"summary": "Head of SMB, Asia Pacific and Japan at Amazon Web Services (AWS)"
+		},
+		{
+			"link": "https://au.linkedin.com/in/wong-samantha",
+			"location": "Melbourne, VI",
+			"name": "Samantha Wong",
+			"summary": "Co-Founder at Pory - Helping businesses create apps without engineering resources 🦄"
+		},
+		{
+			"link": "https://au.linkedin.com/in/karen-petersen-innovate-to-be-great",
+			"location": "Sydney, NS",
+			"name": "Karen Petersen",
+			"summary": "Enterprise Service Manager at Amazon Web Services (AWS)"
+		},
+		{
+			"link": "https://au.linkedin.com/in/krishna-ratnakaram-70000620",
+			"location": "Bayswater, VI",
+			"name": "Krishna Ratnakaram",
+			"summary": "Sourcing \u0026 Product Manager at Viewscape Pty Ltd"
+		},
+		{
+			"link": "https://au.linkedin.com/in/vishnureddymamindla",
+			"location": "Carnegie, VI",
+			"name": "Vishnuvardhan Reddy",
+			"summary": "Level 3 Technology Specialist"
+		},
+		{
+			"link": "https://au.linkedin.com/in/pavani-vangapally-66551068",
+			"location": "Greater Melbourne Area",
+			"name": "Pavani Vangapally",
+			"summary": "Analyst Programmer at netwealth Investments Limited"
+		},
+		{
+			"link": "https://au.linkedin.com/in/bianca-kurniawan-0a4531191",
+			"location": "Melbourne, VI",
+			"name": "Bianca Kurniawan",
+			"summary": "Student at Monash University"
+		},
+		{
+			"link": "https://au.linkedin.com/in/kian-siang-lim-1850bb16b",
+			"location": "Australia",
+			"name": "Kian Siang Lim",
+			"summary": "Doctoral Researcher at Monash University"
+		},
+		{
+			"link": "https://au.linkedin.com/in/clairetwomey",
+			"location": "Sydney, NS",
+			"name": "Claire Twomey",
+			"summary": "Lead Solution Engineer at Salesforce"
+		},
+		{
+			"link": "https://au.linkedin.com/in/eric-ng-97b39b191",
+			"location": "Greater Sydney Area",
+			"name": "Eric Ng",
+			"summary": "Graduate from University of Sydney"
+		},
+		{
+			"link": "https://au.linkedin.com/in/aleck-kulabukhov-826bb985",
+			"location": "Greater Sydney Area",
+			"name": "Aleck Kulabukhov",
+			"summary": "Architecting and building better digital future today"
+		},
+		{
+			"link": "https://www.linkedin.com/in/hannahschachte",
+			"location": null,
+			"name": "Hannah Schachte",
+			"summary": "Digital Risk Associate at PwC"
+		},
+		{
+			"link": "https://www.linkedin.com/in/thilak-manohar",
+			"location": null,
+			"name": "Thilak Manohar",
+			"summary": "Systems Engineer at Arup"
+		},
+		{
+			"link": "https://www.linkedin.com/in/anishmohile",
+			"location": null,
+			"name": "Anish Mohile",
+			"summary": "Cloud Architect at Amazon Web Services (AWS)"
+		},
+		{
+			"link": "https://www.linkedin.com/in/jasmine-leung-",
+			"location": null,
+			"name": "Jasmine Leung",
+			"summary": "Associate Consultant at Capgemini"
+		},
+		{
+			"link": "https://www.linkedin.com/in/clare-bellchambers-a980aa1b7",
+			"location": null,
+			"name": "Clare Bellchambers",
+			"summary": "Operations Manager at Additive Assurance"
+		},
+		{
+			"link": "https://www.linkedin.com/in/xavierclements",
+			"location": null,
+			"name": "Xavier Clements",
+			"summary": "Cloud Architect - Data \u0026 Analytics at Amazon Web Services (AWS)"
+		},
+		{
+			"link": "https://www.linkedin.com/in/cemilbrowne",
+			"location": null,
+			"name": "Cemil Browne",
+			"summary": "Senior IT Executive. Customer outcome and team focused leader. Grows Businesses. Gets Stuff Done."
+		},
+		{
+			"link": "https://www.linkedin.com/in/william-q",
+			"location": null,
+			"name": "William Q.",
+			"summary": "Cloud Architect at Amazon Web Services (AWS)"
+		},
+		{
+			"link": "https://www.linkedin.com/in/nabilahqanuwar",
+			"location": null,
+			"name": "Nabilah Anuwar",
+			"summary": "Data Science | Accounting"
+		},
+		{
+			"link": "https://www.linkedin.com/in/rizvirahim",
+			"location": null,
+			"name": "Rizvi Rahim",
+			"summary": "Cloud Architect at Amazon Web Services (AWS)"
+		}
+	],
+	"personal_emails": null,
+	"personal_numbers": null,
+	"profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rkkochie/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=0004d7f56a0400b0000000001%2F20220709%2Fus-west-000%2Fs3%2Faws4_request\u0026X-Amz-Date=20220709T133025Z\u0026X-Amz-Expires=3600\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=fd60bdddd3174752cfe43f75205f699d5e8c764a26302b79783c40b07cdd55d5",
+	"public_identifier": "rkkochie",
+	"recommendations": [],
+	"similarly_named_profiles": [
+		{
+			"link": "https://www.linkedin.com/in/robert-koch-aab7319",
+			"location": "Evansville, IN",
+			"name": "Robert Koch",
+			"summary": "Chairman at Koch Enterprises, Inc."
+		},
+		{
+			"link": "https://de.linkedin.com/in/robert-koch-686408100",
+			"location": "Marsberg",
+			"name": "Robert Koch",
+			"summary": "Sales and Purchasing bei Jakob Eschbach GmbH"
+		},
+		{
+			"link": "https://www.linkedin.com/in/robert-koch-194a9111",
+			"location": "San Francisco, CA",
+			"name": "Robert Koch",
+			"summary": "Owner, Robert Koch Gallery"
+		},
+		{
+			"link": "https://de.linkedin.com/in/robert-koch-804833101",
+			"location": "Nuremberg",
+			"name": "Robert Koch",
+			"summary": "Kompetenz durch Erfahrung und Kooperation!"
+		},
+		{
+			"link": "https://de.linkedin.com/in/robert-koch-67429697",
+			"location": "Greater Wurzburg Area",
+			"name": "Robert Koch",
+			"summary": "CIO at Koch NT"
+		}
+	],
+	"skills": null,
+	"state": "Victoria",
+	"summary": "Motivated and curious, I strive to achieve my goals and pursue anything I find interesting. I enjoy all things electrical and mechanical.",
+	"volunteer_work": [
+		{
+			"cause": "Education",
+			"company": "Wired Monash",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/wired-monash/",
+			"description": "As the president of Wired my responsibilities include acting as a representative for the club to other organisations and businesses, formulating long term strategies for the future of the club, and to supervise and assist the other members of the committee.",
+			"ends_at": {
+				"day": 30,
+				"month": 9,
+				"year": 2017
+			},
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C510BAQHUjQk5CCyswA/company-logo_400_400/0/1519881179181?e=1664409600\u0026v=beta\u0026t=aGwRNcJlQyXadreBqQDjleG4lrLMeWM9CqgwLqh3Yag",
+			"starts_at": {
+				"day": 1,
+				"month": 9,
+				"year": 2016
+			},
+			"title": "President"
+		},
+		{
+			"cause": "Education",
+			"company": "Wired Monash",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/wired-monash/",
+			"description": "Currently the Education Officer for the IT society at Monash University. As the Education Officer I liaison with the faculties at Monash to organize events and other joint ventures for the students at Monash who are apart of the WIRED community.",
+			"ends_at": {
+				"day": 30,
+				"month": 9,
+				"year": 2016
+			},
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C510BAQHUjQk5CCyswA/company-logo_400_400/0/1519881179181?e=1664409600\u0026v=beta\u0026t=aGwRNcJlQyXadreBqQDjleG4lrLMeWM9CqgwLqh3Yag",
+			"starts_at": {
+				"day": 1,
+				"month": 9,
+				"year": 2015
+			},
+			"title": "Education Officer"
+		},
+		{
+			"cause": "Science_and_technology",
+			"company": "RHoK Australia",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/rhok-australia/",
+			"description": "",
+			"ends_at": null,
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQE51GIm61dt-A/company-logo_400_400/0/1519860929234?e=1664409600\u0026v=beta\u0026t=TE8HK-a8JZV--epmMMSFuEbOm_7cGiZaxzaOdJkkgec",
+			"starts_at": {
+				"day": 1,
+				"month": 1,
+				"year": 2016
+			},
+			"title": "Developer"
+		},
+		{
+			"cause": "Education",
+			"company": "Monash University",
+			"company_linkedin_profile_url": "https://www.linkedin.com/school/monash-university/",
+			"description": "Super Mentor for the IT faculties peer mentor program with commitments including providing guidance and mentorship to both mentors and mentees in the IT faculty. Other responsibilities include editing the IT newsletter for the university and holding events for first year students.",
+			"ends_at": {
+				"day": 31,
+				"month": 7,
+				"year": 2017
+			},
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQGQ17wssGVZeA/company-logo_400_400/0/1640136483646?e=1664409600\u0026v=beta\u0026t=JvoXrVg5Ize_lP4UyMSMOc-tRYZV06_Bh5agLNLSD8c",
+			"starts_at": {
+				"day": 1,
+				"month": 1,
+				"year": 2016
+			},
+			"title": "Super Mentor"
+		},
+		{
+			"cause": "Science_and_technology",
+			"company": "Young Engineers Australia - Victoria Division (YEAV)",
+			"company_linkedin_profile_url": "https://www.linkedin.com/company/yeav/",
+			"description": "Providing opportunities for young engineers to enhance their skills and apply their passions for a better future. Focusing on delivering the YEA Case Competition.",
+			"ends_at": null,
+			"logo_url": "https://media-exp2.licdn.com/dms/image/C560BAQFNobqfRgEuoA/company-logo_400_400/0/1642984485247?e=1664409600\u0026v=beta\u0026t=ZClF8yUxvaOHJbJKkJ4SSdQ8cohg9yMhBQdkMryNl1w",
+			"starts_at": {
+				"day": 1,
+				"month": 1,
+				"year": 2022
+			},
+			"title": "Committee Member"
+		}
+	]
+}

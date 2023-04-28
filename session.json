@@ -1,0 +1,65 @@
+{
+	"capabilities": {
+		"https://www.fastmail.com/dev/maskedemail": {},
+		"urn:ietf:params:jmap:core": {
+			"collationAlgorithms": [
+				"i;ascii-numeric",
+				"i;ascii-casemap",
+				"i;octet"
+			],
+			"maxCallsInRequest": 50,
+			"maxConcurrentRequests": 10,
+			"maxConcurrentUpload": 10,
+			"maxObjectsInGet": 4096,
+			"maxObjectsInSet": 4096,
+			"maxSizeRequest": 10000000,
+			"maxSizeUpload": 250000000
+		},
+		"urn:ietf:params:jmap:mail": {},
+		"urn:ietf:params:jmap:submission": {}
+	},
+	"accounts": {
+		"ucb4140a6": {
+			"name": "robert@kochie.io",
+			"isPersonal": true,
+			"isReadOnly": false,
+			"accountCapabilities": {
+				"https://www.fastmail.com/dev/maskedemail": {},
+				"urn:ietf:params:jmap:core": {},
+				"urn:ietf:params:jmap:mail": {
+					"emailQuerySortOptions": [
+						"receivedAt",
+						"from",
+						"to",
+						"subject",
+						"size",
+						"header.x-spam-score"
+					],
+					"maxMailboxDepth": null,
+					"maxMailboxesPerEmail": 1000,
+					"maxSizeAttachmentsPerEmail": 50000000,
+					"maxSizeMailboxName": 490,
+					"mayCreateTopLevelMailbox": true
+				},
+				"urn:ietf:params:jmap:submission": {
+					"maxDelayedSend": 44236800,
+					"submissionExtensions": []
+				}
+			}
+		}
+	},
+	"primaryAccounts": {
+		"https://www.fastmail.com/dev/maskedemail": "ucb4140a6",
+		"urn:ietf:params:jmap:core": "ucb4140a6",
+		"urn:ietf:params:jmap:mail": "ucb4140a6",
+		"urn:ietf:params:jmap:submission": "ucb4140a6"
+	},
+	"username": "robert@kochie.io",
+	"apiUrl": "https://api.fastmail.com/jmap/api/",
+	"downloadUrl": "https://www.fastmailusercontent.com/jmap/download/{accountId}/{blobId}/{name}?type={type}",
+	"uploadUrl": "https://api.fastmail.com/jmap/upload/{accountId}/",
+	"eventSourceUrl": "https://api.fastmail.com/jmap/event/",
+	"state": "cyrus-991351;p-9b67c2f0e3",
+	"signingId": "",
+	"signingKey": ""
+}
